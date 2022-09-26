@@ -8,7 +8,7 @@ authors:
     email: anders.kaestner@psi.ch
     web: http://www.psi.ch
     github: anderskaestner
-description: "In this blog I am posting ideas and recipes that I hope are useful for others as well."
+description: "In this blog I am posting the progress of my e-learning notebooks."
 
-show_excerpts: false # set to false to remove excerpts on the homepage
+show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
