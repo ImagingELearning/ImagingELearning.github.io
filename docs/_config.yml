@@ -10,5 +10,5 @@ authors:
     github: anderskaestner
 description: "In this blog I am posting the progress of my e-learning notebooks."
 
-show_excerpts: true # set to false to remove excerpts on the homepage
+show_excerpts: false # set to false to remove excerpts on the homepage
 theme: minima
