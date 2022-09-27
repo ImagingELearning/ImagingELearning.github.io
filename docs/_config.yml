@@ -9,7 +9,7 @@ authors:
     web: http://www.psi.ch
     github: anderskaestner
 description: "In this blog I am posting the progress of my e-learning notebooks."
-future: true
+future: false
 
 show_excerpts: false # set to false to remove excerpts on the homepage
 theme: minima
