@@ -7,4 +7,12 @@ author:
 - Anders Kaestner
 ---
 
-Hi, in this blog I'm going to post my e-learning tutorials.
+
+The tutorial notebook is located in the [resolution repository](https://github.com/ImagingELearning/resolutionresolution)
+
+You can also run the notebook online
+
+<a href="https://colab.research.google.com/github/ImagingELearning/resolution/blob/main/tutorials/02_PixelSize/02_PixelSize.ipynb" target="_blank">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+ 
