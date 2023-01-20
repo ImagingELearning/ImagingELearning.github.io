@@ -29,7 +29,15 @@ The following topics are currently covered:
   <tr>
     <td></td>
     <td>Arrays in python</td>
-    <td></td>
+    <td>
+      
+    -[x] Theory complete
+    -[x] Header
+    -[x] Intro and summary
+    -[ ] Data in colab
+    -[ ] Link on IAEA elearning 
+     
+    </td>
     <td><a href="https://colab.research.google.com/github/ImagingELearning/ImageProcessing/blob/main/tutorials/01_ArraysInPython/01_ArraysInPython.ipynb" target="_blank">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a></td>
