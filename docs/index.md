@@ -138,14 +138,14 @@ The following topics are currently covered:
   <tr>
     <td>Instructions</td>
     <td></td>
-    <td></td>
+    <td>To do</td>
     <td></td>    
   </tr>
   
   <tr>
     <td>Video instruction</td>
     <td></td>
-    <td></td>
+    <td>To do</td>
     <td></td>    
   </tr>
 </tbody>
