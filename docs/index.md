@@ -31,11 +31,11 @@ The following topics are currently covered:
     <td>Arrays in python</td>
     <td>
     <ul>  
-      <li style="color:green;">Theory complete</li>
+      <li>Theory complete</li>
       <li>Header</li>
       <li>Intro and summary</li>
-      <li><em>Data in colab</em></li>
-      <li><em>Link on IAEA elearning</em></li>
+      <li style="color:red;"><em>Data in colab</em></li>
+      <li style="color:red;"><em>Link on IAEA elearning</em></li>
     </ul>
     </td>
     <td><a href="https://colab.research.google.com/github/ImagingELearning/ImageProcessing/blob/main/tutorials/01_ArraysInPython/01_ArraysInPython.ipynb" target="_blank">
@@ -45,7 +45,15 @@ The following topics are currently covered:
   <tr>
     <td></td>
     <td>Working with images</td>
-    <td></td>
+    <td>
+      <ul>  
+      <li>Theory complete</li>
+      <li>Header</li>
+      <li>Intro and summary</li>
+      <li style="color:red;"><em>Data in colab</em></li>
+      <li style="color:red;"><em>Link on IAEA elearning</em></li>
+    </ul>
+    </td>
     <td><a href="https://colab.research.google.com/github/ImagingELearning/ImageProcessing/blob/main/tutorials/02_WorkingWithImages/02_WorkingWithImages.ipynb" target="_blank">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a></td>
@@ -126,6 +134,19 @@ The following topics are currently covered:
     <td><a href="https://colab.research.google.com/github/ImagingELearning/resolution/blob/main/tutorials/03_Resolution/03_Resolution.ipynb" target="_blank">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a> 	</td>
+  </tr>
+  <tr>
+    <td>Instructions</td>
+    <td></td>
+    <td></td>
+    <td></td>    
+  </tr>
+  
+  <tr>
+    <td>Video instruction</td>
+    <td></td>
+    <td></td>
+    <td></td>    
   </tr>
 </tbody>
 </table>
