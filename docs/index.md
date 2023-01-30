@@ -34,7 +34,7 @@ The following topics are currently covered:
       <li>Theory complete</li>
       <li>Header</li>
       <li>Intro and summary</li>
-      <li style="color:red;"><em>Data in colab</em></li>
+      <li>Data in colab</li>
       <li style="color:red;"><em>Link on IAEA elearning</em></li>
     </ul>
     </td>
@@ -50,7 +50,7 @@ The following topics are currently covered:
       <li>Theory complete</li>
       <li>Header</li>
       <li>Intro and summary</li>
-      <li style="color:red;"><em>Data in colab</em></li>
+      <li>Data in colab</li>
       <li style="color:red;"><em>Link on IAEA elearning</em></li>
     </ul>
     </td>
@@ -61,7 +61,15 @@ The following topics are currently covered:
     <tr>
     <td></td>
     <td>Noise in images</td>
-    <td></td>
+    <td>
+      <ul>
+        <li>Theory complete</li>
+        <li>Header</li>
+        <li>Intro and summary</li>
+        <li>Data in colab</li>
+        <li style="color:red;"><em>Link on IAEA elearning</em></li>
+      </ul>
+      </td>
     <td><a href="https://colab.research.google.com/github/ImagingELearning/ImageProcessing/blob/main/tutorials/03_Noise/NoiseInNeutronImages.ipynb" target="_blank">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a></td>
@@ -69,7 +77,15 @@ The following topics are currently covered:
   <tr>
     <td></td>
     <td>Image filtering</td>
-    <td></td>
+    <td>
+        <ul>
+        <li>Theory complete</li>
+        <li>Header</li>
+        <li>Intro and summary</li>
+        <li>Data in colab</li>
+         <li style="color:red;"><em>Link on IAEA elearning</em></li>
+      </ul>
+    </td>
     <td><a href="https://colab.research.google.com/github/ImagingELearning/ImageProcessing/blob/main/tutorials/04_FilteringTechniques/04_FilteringTechniques.ipynb" target="_blank">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a></td>
@@ -77,7 +93,13 @@ The following topics are currently covered:
   <tr>
     <td></td>
     <td>Image segmentation</td>
-    <td></td>
+    <td>
+        <li>Theory complete</li>
+        <li>Header</li>
+        <li>Intro and summary</li>
+        <li>Data in colab</li>
+        <li style="color:red;"><em>Link on IAEA elearning</em></li>
+    </td>
     <td><a href="https://colab.research.google.com/github/ImagingELearning/ImageProcessing/blob/main/tutorials/05_ThresholdingAndMorphology/05_BasicSegmentation.ipynb" target="_blank">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a></td>
