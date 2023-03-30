@@ -136,7 +136,11 @@ The following topics are currently covered:
   <tr>
     <td></td>
     <td>The relation between pixel size, sampling, and resolution</td>
-    <td></td>
+    <td><li>Theory complete</li>
+        <li>Header</li>
+        <li>Intro and summary</li>
+        <li style="color:red;">Data in colab</li>
+        <li style="color:red;"><em>Link on IAEA elearning</em></li></td>
     <td><a href="https://colab.research.google.com/github/ImagingELearning/resolution/blob/main/tutorials/01_Introduction/01_Resolution_Introduction.ipynb" target="_blank">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>  	</td>
@@ -144,7 +148,11 @@ The following topics are currently covered:
   <tr>
     <td></td>
     <td>How to measure the pixel size</td>
-    <td></td>
+    <td><li>Theory complete</li>
+        <li>Header</li>
+        <li>Intro and summary</li>
+        <li style="color:red;">Data in colab</li>
+        <li style="color:red;"><em>Link on IAEA elearning</em></li></td>
     <td><a href="https://colab.research.google.com/github/ImagingELearning/resolution/blob/main/tutorials/02_PixelSize/02_PixelSize.ipynb" target="_blank">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>	</td>
@@ -152,7 +160,11 @@ The following topics are currently covered:
   <tr>
     <td></td>
     <td>How to measure the resolution</td>
-    <td>Under development</td>
+    <td><li>Theory complete</li>
+        <li>Header</li>
+        <li>Intro and summary</li>
+        <li style="color:red;">Data in colab</li>
+        <li style="color:red;"><em>Link on IAEA elearning</em></li></td>
     <td><a href="https://colab.research.google.com/github/ImagingELearning/resolution/blob/main/tutorials/03_Resolution/03_Resolution.ipynb" target="_blank">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a> 	</td>
