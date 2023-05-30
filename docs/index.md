@@ -7,7 +7,7 @@ Here are some [instructions to help you](instructions.md) using the e-learning n
 # Topics
 The following topics are currently covered:
 1. [Working with images](https://imagingelearning.github.io/ImageProcessing)
-2. [Analyzing images](https://imagingelearning.github.io/)
+2. [Analyzing images](https://imagingelearning.github.io/QuantifyingNeutronImages)
 3. [Resolution (advanced topic)](https://imagingelearning.github.io/resolution)
 
 # Status
