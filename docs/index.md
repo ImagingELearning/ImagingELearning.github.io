@@ -187,7 +187,11 @@ The following topics are currently covered:
     <td>Instructions</td>
     <td></td>
     <td>Done</td>
-    <td>[Instructions](instructions.md)</td>    
+    <td>
+      
+      [Instructions](instructions.md)
+    
+    </td>    
   </tr>
   
   <tr>
