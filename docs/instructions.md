@@ -15,6 +15,8 @@ software package there is the Colab solution which you try without installing an
 ## Run the notebooks using google Colab
 Google colab is a platform where you can run notebooks on googles cloud computers without installing anything locally. Just click on the Colab icon and it starts a notebook <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 
+The requirement to use Google Colab is that you have a google account to login with. 
+
 ## Run the notebooks using jupyter locally
 Jupyter is mostly easiest to install through the Anaconda environment which you can download freely. 
 By installing it, you have very good starting point for data analysis using python. It includes a large 
