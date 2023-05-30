@@ -27,9 +27,10 @@ the version for your operating system.
 
 You will also need to install some additional packages:
 - ```tifffile``` for reading tiff-files
+- ```tqdm``` progress bar for loops
 This can be done either in the anaconda navigator or on the command line
 ```bash
-conda install tifffile
+conda install tifffile tqdm
 ```
 
 ### Getting the notebooks
