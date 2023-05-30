@@ -8,6 +8,8 @@ Some of the tutorial notebooks are implemented as exercises where you are guided
 implement your own python code. These notebooks have a solution notebook accompanying them, in which a
 solution is presented. You can chose yourself what benefits your learning and your python skills best. 
 
+Before you start, you should know that you can learn from these notebooks without knowing any python. You will however get the most out of them if you have some basic python skills. This allows you to make changes and understand the technical details of the analysis.
+
 There are two main approaches to using the tutorial notebooks; by installing jupyter-notebook on your computer or by running the notebooks on Google Colab.
 By installing jupyter locally you have the most freedom to work with the material but if you for examply don't want to fill your hard drive with yet another 
 software package there is the Colab solution which you try without installing anything locally.
