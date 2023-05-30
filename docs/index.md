@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Anders' e-learning blog"
+title: "Neutron imaging e-learning status blog"
 ---
 # Instructions
 Here are some [instructions to help you](instructions.md) using the e-learning notebooks
