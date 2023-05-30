@@ -186,8 +186,8 @@ The following topics are currently covered:
   <tr>
     <td>Instructions</td>
     <td></td>
-    <td>To do</td>
-    <td></td>    
+    <td>Done</td>
+    <td>[Instructions](instructions.md)</td>    
   </tr>
   
   <tr>
