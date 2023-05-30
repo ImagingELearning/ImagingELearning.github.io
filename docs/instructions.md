@@ -18,9 +18,17 @@ Google colab is a platform where you can run notebooks on googles cloud computer
 ## Run the notebooks using jupyter locally
 Jupyter is mostly easiest to install through the Anaconda environment which you can download freely. 
 By installing it, you have very good starting point for data analysis using python. It includes a large 
-collection of packages preinstalled has a packet manager to help you installing more packages if needed.
+collection of packages preinstalled has a packet manager to help you installing more packages if needed. __Note__: anaconda is still not fully implemented on computers with Apple Silicon CPUs. For these, you have to install a package called miniconda and manually install all dependencies. Which is quite some work.
+
 Anaconda can be installed on their [homepage](https://www.anaconda.com/download). Download and install 
 the version for your operating system. 
+
+You will also need to install some additional packages:
+- ```tifffile``` for reading tiff-files
+This can be done either in the anaconda navigator or on the command line
+```bash
+conda install tifffile
+```
 
 ### Getting the notebooks
 The notebooks are stored in a collection of github repositories and there are different ways to download them:
