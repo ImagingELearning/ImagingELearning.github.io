@@ -115,7 +115,7 @@ The following topics are currently covered:
     <td></td>
     <td>Attenuation coefficient from step wedge</td>
     <td></td>
-    <td><a href="https://colab.research.google.com/github/ImagingELearning/QuantifyingNeutronImages/blob/main/tutorial/01_AttenationCoefficient/01_Analysis_AttenuationCoefficient.ipynb" target="_blank">
+    <td><a href="https://colab.research.google.com/github/ImagingELearning/QuantifyingNeutronImages/blob/main/tutorials/01_AttenationCoefficient/01_Analysis_AttenuationCoefficient.ipynb" target="_blank">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a></td>
   </tr>
