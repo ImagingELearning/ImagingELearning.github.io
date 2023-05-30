@@ -187,9 +187,7 @@ The following topics are currently covered:
     <td>Instructions</td>
     <td></td>
     <td>Done</td>
-<td>
-      
-[Instructions](instructions.md)
+<td><a src="https://imagingelearning.github.io/instructions.html" /a>
     
 </td>    
   </tr>
