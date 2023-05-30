@@ -1,6 +1,8 @@
 ---
 title: "Welcome to Anders' e-learning blog"
 ---
+# Instructions
+Here are some [instructions to help you](instructions) using the e-learning notebooks
 
 # Topics
 The following topics are currently covered:
